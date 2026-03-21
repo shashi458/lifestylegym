@@ -7,7 +7,7 @@ const Footer = () => (
         <div>
           <div className="flex items-center gap-2 mb-4">
             <Dumbbell className="h-6 w-6 text-primary" />
-            <span className="font-display text-2xl text-foreground">IRON FORGE</span>
+            <span className="font-display text-2xl text-foreground">LIFE TIME GYMS</span>
           </div>
           <p className="text-sm text-muted-foreground leading-relaxed">
             Premium fitness facility dedicated to helping you achieve your strongest self since 2018.
@@ -39,7 +39,7 @@ const Footer = () => (
         </address>
       </div>
       <div className="mt-12 border-t border-border pt-8 text-center text-sm text-muted-foreground">
-        © {new Date().getFullYear()} Iron Forge Gym. All rights reserved.
+        © {new Date().getFullYear()} LIFE TIME GYMS Gym. All rights reserved.
       </div>
     </div>
   </footer>

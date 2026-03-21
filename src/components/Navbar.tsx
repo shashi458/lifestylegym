@@ -10,7 +10,7 @@ const Navbar = () => {
       <nav className="container mx-auto flex h-16 items-center justify-between px-4" aria-label="Main navigation">
         <a href="#" className="flex items-center gap-2">
           <Dumbbell className="h-6 w-6 text-primary" />
-          <span className="font-display text-2xl text-foreground">IRON FORGE</span>
+          <span className="font-display text-2xl text-foreground">LIFE TIME GYMS</span>
         </a>
         <div className="hidden md:flex items-center gap-8">
           <a href="#services" className="text-sm text-muted-foreground hover:text-primary transition-colors">Services</a>

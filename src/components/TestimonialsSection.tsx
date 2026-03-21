@@ -7,7 +7,7 @@ interface TestimonialProps {
 }
 
 const testimonials: TestimonialProps[] = [
-  { name: "Marcus J.", role: "Member for 2 years", quote: "Iron Forge completely transformed my physique. The trainers genuinely care about your progress." },
+  { name: "Marcus J.", role: "Member for 2 years", quote: "LIFE TIME GYMS completely transformed my physique. The trainers genuinely care about your progress." },
   { name: "Sarah L.", role: "Member for 1 year", quote: "Best group classes in the city. The energy in the HIIT sessions is unmatched." },
   { name: "David R.", role: "Member for 3 years", quote: "I've tried every gym in town. Nothing comes close to the equipment and atmosphere here." },
 ];

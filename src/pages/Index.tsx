@@ -10,7 +10,7 @@ import Footer from "@/components/Footer";
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "GymOrFitnessCenter",
-  name: "Iron Forge Gym",
+  name: "LIFE TIME GYMS Gym",
   description: "Premium fitness facility with expert personal trainers, state-of-the-art equipment, and flexible membership plans.",
   address: { "@type": "PostalAddress", streetAddress: "123 Fitness Ave", addressLocality: "Downtown" },
   telephone: "(555) 123-4567",

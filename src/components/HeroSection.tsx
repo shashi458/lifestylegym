@@ -5,7 +5,7 @@ const HeroSection = () => (
   <section className="relative min-h-screen flex items-center justify-center overflow-hidden" aria-label="Hero">
     <img
       src={heroImg}
-      alt="Iron Forge Gym interior with professional equipment"
+      alt="LIFE TIME GYMS Gym interior with professional equipment"
       className="absolute inset-0 w-full h-full object-cover"
       loading="eager"
     />
